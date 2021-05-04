@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receipts-travelline", "receipts-travelline\receipts-travelline.csproj", "{4B74A917-CEE8-498A-93E3-10701FBAA041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B74A917-CEE8-498A-93E3-10701FBAA041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B74A917-CEE8-498A-93E3-10701FBAA041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B74A917-CEE8-498A-93E3-10701FBAA041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B74A917-CEE8-498A-93E3-10701FBAA041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4E972F-5067-4F5C-B2EC-162F1DD48197}
+	EndGlobalSection
+EndGlobal
